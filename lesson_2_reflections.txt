@@ -1,3 +1,9 @@
 Initialising a repository is required to be able to use git
 version control with it. Git adds metadata to the directory 
 to allow it to operate.
+
+The staging area is different from the working area and the 
+repository because it acts as an intermediate medium between 
+the two. It allows us to add multiple files first then commit
+them all at once later.
+
