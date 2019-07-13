@@ -1,0 +1,24 @@
+By showing the differences between both files, we were able to
+see what had changed in the new file, and detect the spelling
+error causing the bug.
+
+Having access to the history of a file can enable the programmer
+to make changes from a certain point in time, if there is a bug
+introduced. Also allows new prototypes to be worked on while still
+having the stable release in use.
+
+The pros of manually choosing when to commit is that the user has
+full control over the process and can tailor it to suit their preferences.
+However, user-error may be introduced if someone forgets to commit or if
+they don't commit properly.
+
+git log can be used to find all the logs of commits with their id's
+git diff can then be used along with 2 commit id's found with git log
+to see all the changes between the 2 files
+Lines that have been added will be coloured green, lines that have been deleted
+will be coloured red.
+
+Using version control would make you more confident to make changes that could
+break something because you can easily go back to a previous version if something
+goes wrong.
+ 
