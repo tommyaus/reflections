@@ -5,4 +5,13 @@ You might want to only pull changes manually so you can choose what stays in you
 You may not want everything that has been contributed to the remote repository to be updated in your
 local repository.
 
+A fork is a type of clone of a github repository that is performed on github from the creator's 
+account to your account, and is automatically cited.
+A clone simply involves cloning a repository on gitgub to your own local repository.
+Git branches are a reference to any changes made at a particular point. A branch can be moved
+between commits.
+
+
+
+
 
