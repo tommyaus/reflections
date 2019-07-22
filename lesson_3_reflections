@@ -1,2 +1,8 @@
 You would want to use a remote repository over a local repository when multiple contributers are required.
 It allows a group of contributors to see all commits and add changes where necessary.
+
+You might want to only pull changes manually so you can choose what stays in your local repository.
+You may not want everything that has been contributed to the remote repository to be updated in your
+local repository.
+
+
