@@ -1,0 +1,2 @@
+You would want to use a remote repository over a local repository when multiple contributers are required.
+It allows a group of contributors to see all commits and add changes where necessary.
